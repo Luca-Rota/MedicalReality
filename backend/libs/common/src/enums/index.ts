@@ -1,0 +1,7 @@
+export { BodyType } from './body-type.enum'
+export { CriticalityLevel } from './criticality-level.enum'
+export { Grade } from './grade.enum'
+export { InterventionRoom } from './intervention-room.enum'
+export { InterventionType } from './intervention-type.enum'
+export { LessonDifficulty } from './lesson-difficulty.enum'
+export { LessonType } from './lesson-type.enum'

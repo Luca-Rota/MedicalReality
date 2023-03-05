@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dm2-010-10
+* source:	https://sketchfab.com/3d-models/dm2-010-10-4922d84128484ce88a77cd56cb9150cf
+* author:	foxart3d (https://sketchfab.com/foxart3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dm2-010-10" (https://sketchfab.com/3d-models/dm2-010-10-4922d84128484ce88a77cd56cb9150cf) by foxart3d (https://sketchfab.com/foxart3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

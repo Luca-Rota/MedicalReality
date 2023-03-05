@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bandaid
+* source:	https://sketchfab.com/3d-models/bandaid-4ea9ba2813f24416ad164b4fd3300dc6
+* author:	elouisetrewartha (https://sketchfab.com/etrewartha)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bandaid" (https://sketchfab.com/3d-models/bandaid-4ea9ba2813f24416ad164b4fd3300dc6) by elouisetrewartha (https://sketchfab.com/etrewartha) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

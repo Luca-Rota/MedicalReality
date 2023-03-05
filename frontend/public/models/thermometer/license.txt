@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thermometer
+* source:	https://sketchfab.com/3d-models/thermometer-5ef4251b270c4997aca6931a094f9621
+* author:	Medical.Gallery Graphics (https://sketchfab.com/scootsmalone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thermometer" (https://sketchfab.com/3d-models/thermometer-5ef4251b270c4997aca6931a094f9621) by Medical.Gallery Graphics (https://sketchfab.com/scootsmalone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

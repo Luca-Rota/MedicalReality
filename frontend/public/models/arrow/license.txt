@@ -1,0 +1,11 @@
+Model Information:
+* title:	ARROW 3D
+* source:	https://sketchfab.com/3d-models/arrow-3d-42d651db7fbd4dc59ade13f72fefb02c
+* author:	c0ntra5t (https://sketchfab.com/c0ntr5t)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ARROW 3D" (https://sketchfab.com/3d-models/arrow-3d-42d651db7fbd4dc59ade13f72fefb02c) by c0ntra5t (https://sketchfab.com/c0ntr5t) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch
+* source:	https://sketchfab.com/3d-models/couch-00f6ef02c638466e9e6ea40bd9b93e55
+* author:	Matbot (https://sketchfab.com/Matbot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch" (https://sketchfab.com/3d-models/couch-00f6ef02c638466e9e6ea40bd9b93e55) by Matbot (https://sketchfab.com/Matbot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
